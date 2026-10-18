@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Sample Audio Preview",
+    "category": "Music Creation",
+    "audioUrl": "assets/audio/replace-with-your-preview.mp3",
+    "artwork": "assets/images/music/replace-with-cover.jpg",
+    "status": "placeholder"
+  }
+]

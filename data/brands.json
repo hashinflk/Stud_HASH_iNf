@@ -1,0 +1,30 @@
+[
+  {
+    "id": "infpirex",
+    "name": "iNfpirex",
+    "category": "Graphics",
+    "status": "live",
+    "logo": "assets/logos/infpirex-logo.svg"
+  },
+  {
+    "id": "infyzora",
+    "name": "iNfyzora",
+    "category": "Software & Technology",
+    "status": "coming-soon",
+    "logo": "assets/logos/infyzora-logo.svg"
+  },
+  {
+    "id": "inframex",
+    "name": "iNframex",
+    "category": "Photography & Videography",
+    "status": "disabled",
+    "logo": "assets/logos/inframex-logo.svg"
+  },
+  {
+    "id": "infysona",
+    "name": "iNfysona",
+    "category": "Music Creations",
+    "status": "limited",
+    "logo": "assets/logos/infysona-logo.svg"
+  }
+]
