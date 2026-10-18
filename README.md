@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Studio HASH iNf Lk — Website Starter
 
 A responsive, English-first static website starter for GitHub Pages.
@@ -56,3 +57,7 @@ For a project repository, the website URL usually looks like `https://YOUR-USERN
 - The Terms and Privacy pages are starter drafts, not legal advice. Review and adapt them before treating them as final legal policies.
 - All logos included here are sample placeholder designs. Replace them with your official logos before launch.
 - iNframex is intentionally shown as inactive; its buttons are disabled.
+=======
+# Stud_HASH_iNf
+Studio Hash iNf Lk - Official Website
+>>>>>>> 98daf3953b21a2d86ceda05b67f6f326e51e5200
