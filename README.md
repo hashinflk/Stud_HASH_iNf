@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+<<<<<<< Ater
 # Studio HASH iNf Lk — Website Starter
+
+Visit Us
+https://hashinflk.github.io/Stud_HASH_iNf/
 
 A responsive, English-first static website starter for GitHub Pages.
 
